@@ -1,0 +1,27 @@
+.centerHeader{
+  vertical-align: middle;
+  text-align: center;
+  font-size: 3.5em;
+  color: rgb(43, 181, 235);
+  font-weight: bold;
+}
+
+.largertext{
+  font-size: 1.4em;
+  color: rgb(43, 181, 235);
+  font-weight: bold;
+}
+
+.normaltext{
+    color: rgb(43, 181, 235);
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.borderLine{
+  border-style: none none solid none;
+  border-color: rgb(43, 181, 235); 
+  border-width: .15em;
+}
