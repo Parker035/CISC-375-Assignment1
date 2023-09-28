@@ -13,15 +13,29 @@
 }
 
 .normaltext{
-    color: rgb(43, 181, 235);
+  color: rgb(43, 181, 235);
+  float: left;
 }
 
 .underline{
   text-decoration: underline;
 }
 
+.box{
+  border-style: solid solid solid solid;
+  border-color: rgb(43, 181, 235); 
+  border-width: .2em;
+  border-radius: .5em;
+  padding: 1em;
+  margin: 1em;
+}
+
+.sidemargin{
+  margin-left: 3em;
+  margin-right: 3em;
+}
 .borderLine{
   border-style: none none solid none;
   border-color: rgb(43, 181, 235); 
-  border-width: .15em;
+  border-width: .2em;
 }
